@@ -1,8 +1,0 @@
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/SpringStocksApplication.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/controller/ForecastController.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/dataloader/DataLoader.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/exceptions/ForecastNotFoundException.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/pojo/Forecast.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/repository/ForecastRepository.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/services/ForecastService.java
-/mnt/c/Users/Arun Alagappan/Documents/SCTP/Module_3/module_3_project/spring-stocks/src/main/java/sg/ntu/edu/spring_stocks/services/ForecastServiceImpl.java

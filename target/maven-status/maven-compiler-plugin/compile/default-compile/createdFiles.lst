@@ -1,9 +1,0 @@
-sg/ntu/edu/spring_stocks/dataloader/DataLoader.class
-sg/ntu/edu/spring_stocks/services/ForecastService.class
-sg/ntu/edu/spring_stocks/exceptions/ForecastNotFoundException.class
-sg/ntu/edu/spring_stocks/SpringStocksApplication.class
-sg/ntu/edu/spring_stocks/controller/ForecastController.class
-sg/ntu/edu/spring_stocks/pojo/Forecast.class
-sg/ntu/edu/spring_stocks/repository/ForecastRepository.class
-sg/ntu/edu/spring_stocks/pojo/Forecast$ForecastBuilder.class
-sg/ntu/edu/spring_stocks/services/ForecastServiceImpl.class
